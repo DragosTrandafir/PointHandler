@@ -27,4 +27,6 @@ A math teacher needs a program that helps students perform simple operations wit
 points in two-dimensional space.
 The program manages several points (class PointRepository) and allows different operations.
 
+All the additional documentation is provided inside the python modules.
+
 
