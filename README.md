@@ -6,7 +6,8 @@ Development of Python modules to solve complex problems
 • Develop Python modules and classes
 • Work with standard and compound data types in Python
 • Use test-driven development
-• Familiarize with special libraries e.g. matplotlib
+• Familiarize with special libraries e.g. matplotlib and white-box testing
+
 
 Requirements 
 1. Implement a solution for the following problem using classes and feature 
