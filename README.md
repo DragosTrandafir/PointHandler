@@ -29,5 +29,6 @@ points in two-dimensional space.
 The program manages several points (class PointRepository) and allows different operations.
 
 All the additional documentation is provided inside the python modules.
+THE MAIN MODULE should be run in order to start the application
 
 
